@@ -1,4 +1,4 @@
-# 🤖 BrainAi Protocol 
+# 🤖 NEXORA AI 
 
 > Powered by Nexora - The Future of AI-Powered Solana Infrastructure
 
